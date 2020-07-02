@@ -4,4 +4,4 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 This loads the default image and loads dynamic image later.
 
-# [Github location](https://github.com/netConnects/aboss/master/image-async)
+# [Github location](https://github.com/netConnects/aboss/tree/master/image-async)
